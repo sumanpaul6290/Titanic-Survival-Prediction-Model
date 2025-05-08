@@ -58,7 +58,7 @@ The dataset is sourced from the [Kaggle Titanic competition](https://www.kaggle.
 1️⃣ **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Titanic-Survival-Prediction-Model.git
+git clone https://github.com/sumanpaul6290/Titanic-Survival-Prediction-Model.git
 cd Titanic-Survival-Prediction-Model
 ```
 
@@ -76,3 +76,11 @@ Launch Jupyter Notebook and open:
 ```
 Titanic Survival Prediction.ipynb
 ```
+
+📈 Sample Visualizations
+
+Heatmap
+![Screenshot (465)](https://github.com/user-attachments/assets/8a1d284c-9ccc-4217-a18f-cdd0577d8668)
+
+Train, Test Data Split Histogram
+![Screenshot (466)](https://github.com/user-attachments/assets/45143e16-a2d2-4c31-af45-ae729d84d951)
