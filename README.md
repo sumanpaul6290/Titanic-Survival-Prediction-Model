@@ -80,7 +80,8 @@ Titanic Survival Prediction.ipynb
 📈 Sample Visualizations
 
 Heatmap
-![Screenshot (465)](https://github.com/user-attachments/assets/8a1d284c-9ccc-4217-a18f-cdd0577d8668)
+![Screenshot (465)](https://github.com/user-attachments/assets/1b52af9e-cb32-40ae-8480-abf105af15e2)
 
 Train, Test Data Split Histogram
-![Screenshot (466)](https://github.com/user-attachments/assets/45143e16-a2d2-4c31-af45-ae729d84d951)
+![Screenshot (466)](https://github.com/user-attachments/assets/001f7150-964a-40b9-993f-ebe84712cea1)
+
