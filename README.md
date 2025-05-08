@@ -20,7 +20,7 @@ We analyze the dataset to uncover insights and use machine learning algorithms t
 - Embarked location
 
 ## 🚀 Features
-- Data Exploration & Visualization
+- Data Exploration & Visualization  
 Visual insights into survival patterns and relationships between features.
 
 - Data Cleaning & Preprocessing
@@ -28,8 +28,7 @@ Visual insights into survival patterns and relationships between features.
   - Encoding categorical variables
   - Feature engineering (e.g., creating new variables)
 
-- Model Development
-
+- Model Development  
 Trains and compares multiple models:
 
   - Logistic Regression
@@ -37,16 +36,12 @@ Trains and compares multiple models:
   - Random Forest
   - Support Vector Machine (SVM)
 
-- Model Evaluation
-
-
+- Model Evaluation  
 Assesses performance using:
 
   - Accuracy
   - Confusion Matrix
   - Cross-validation scores
 
-- Prediction
-
-
+- Prediction  
 Generates predictions for the test set and explores feature importance.
