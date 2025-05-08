@@ -77,7 +77,7 @@ Launch Jupyter Notebook and open:
 Titanic Survival Prediction.ipynb
 ```
 
-📈 Sample Visualizations
+## 📈 Sample Visualizations
 
 Heatmap
 ![Screenshot (465)](https://github.com/user-attachments/assets/1b52af9e-cb32-40ae-8480-abf105af15e2)
@@ -85,3 +85,18 @@ Heatmap
 Train, Test Data Split Histogram
 ![Screenshot (466)](https://github.com/user-attachments/assets/001f7150-964a-40b9-993f-ebe84712cea1)
 
+## ✨ Project Goals
+✅ Build an end-to-end classification pipeline  
+✅ Explore and clean real-world data  
+✅ Compare multiple machine learning models  
+✅ Gain insights into feature importance and survival factors
+
+## 🤝 Contributing
+Pull requests are welcome! If you'd like to add new features, improve the notebook, or optimize models, feel free to fork the repo and submit a PR.
+
+## 🔗 Acknowledgments
+[Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
+
+Open-source ML libraries: scikit-learn, pandas, matplotlib, seaborn
+
+## 👤 Author: [Suman Paul](https://github.com/sumanpaul6290)
