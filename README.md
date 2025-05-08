@@ -29,6 +29,7 @@ Visual insights into survival patterns and relationships between features.
   - Feature engineering (e.g., creating new variables)
 
 - Model Development
+
 Trains and compares multiple models:
 
   - Logistic Regression
@@ -37,6 +38,7 @@ Trains and compares multiple models:
   - Support Vector Machine (SVM)
 
 - Model Evaluation
+
 Assesses performance using:
 
   - Accuracy
@@ -44,4 +46,5 @@ Assesses performance using:
   - Cross-validation scores
 
 - Prediction
+
 Generates predictions for the test set and explores feature importance.
