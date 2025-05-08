@@ -53,3 +53,26 @@ The dataset is sourced from the [Kaggle Titanic competition](https://www.kaggle.
 - train.csv: Training data with labels
 
 - test.csv: Test data without labels
+
+## 🔧 How to Run
+1️⃣ **Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/Titanic-Survival-Prediction-Model.git
+cd Titanic-Survival-Prediction-Model
+```
+
+2️⃣ **Install dependencies:**
+
+Create a virtual environment and install packages from requirements.txt (if provided), or install manually:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
+
+3️⃣ ***Run the notebook:***
+
+Launch Jupyter Notebook and open:
+```
+Titanic Survival Prediction.ipynb
+```
