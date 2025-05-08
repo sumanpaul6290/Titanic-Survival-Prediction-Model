@@ -45,3 +45,11 @@ Assesses performance using:
 
 - Prediction  
 Generates predictions for the test set and explores feature importance.
+
+
+## 🗂 Dataset
+The dataset is sourced from the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic), which provides:
+
+- train.csv: Training data with labels
+
+- test.csv: Test data without labels
