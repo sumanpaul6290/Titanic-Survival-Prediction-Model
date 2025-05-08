@@ -39,6 +39,7 @@ Trains and compares multiple models:
 
 - Model Evaluation
 
+
 Assesses performance using:
 
   - Accuracy
@@ -46,5 +47,6 @@ Assesses performance using:
   - Cross-validation scores
 
 - Prediction
+
 
 Generates predictions for the test set and explores feature importance.
