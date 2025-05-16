@@ -5,7 +5,7 @@ This is a machine learning project that predicts passenger survival on the Titan
 The goal of this project is to build a predictive model that answers the question:
 “What sorts of people were more likely to survive?”
 
-We analyze the dataset to uncover insights and use machine learning algorithms to predict survival outcomes based on passenger data such as:
+I analyze the dataset to uncover insights and use machine learning algorithms to predict survival outcomes based on passenger data such as:
 
 - Passenger Class (Pclass)
 
